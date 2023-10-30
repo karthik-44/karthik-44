@@ -14,7 +14,7 @@ Skills: Data Visualization, Data Analysis, Machine Learning, Data Mining
 - 🔭 I’m currently working on this page. 
 - 😄 Pronouns: He/Him/His 
 
-
+## Connect Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/karthik-44)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vkanna01/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kvrkarthik.com/)  
