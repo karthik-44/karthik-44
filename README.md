@@ -1,11 +1,12 @@
 ![Data Professional](https://github.com/karthik-44/karthik-44/blob/main/ll_banner.jpg)
-### 
-#### Data Professional
 
+# Venkata Raghavendra Karthik Kanna
 
 Hi there 👋, my name is Karthik. I'm a passionate data professional with a strong foundation in data science, analytics and engineering. I turn complex data into actionable insights that drive informed decision-making and help organizations thrive in the data-driven age.
 
 Skills: Data Visualization, Data Analysis, Machine Learning, Data Mining
+
+
 
 - 🔭 I’m currently working on this page. 
 - 😄 Pronouns: He/Him/His 
