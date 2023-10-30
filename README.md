@@ -17,10 +17,8 @@ End to End ML/DL deployment on AWS cloud using AutoML and custom algorithms, Pre
 |---|---|
 |**Programming Languages**| Python, R, SQL. | 
 |**Data Visualization Libraries**| Tableau, Power BI, Matplotlib, Seaborn, Plotly, Folium, ggplot2.|  
-|**Data Science Libraries**| NumPy, Pandas, Sklearn, TensorFlow, SciPy, Dplyr, Caret, Statsmodels, Pyspark, Pytorch, NLTK, Spacy, Dask, Databricks, Jupyter
-notebooks.  |
-|**Data Science Algorithms**| Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines, Recommendation systems,
-Neural Networks, BERT, Roberta, CNN, RNN, LSTM, Clustering (KMeans, DBSCAN, Hierarchical), ARIMA, SARIMAX. | 
+|**Data Science Libraries**| NumPy, Pandas, Sklearn, Pytorch, Pyspark, TensorFlow, SciPy, Dplyr, Caret, Statsmodels, NLTK, Spacy, Dask, Databricks, Jupyter notebooks.  |
+|**Data Science Algorithms**| Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines, Recommendation systems, Neural Networks, BERT, Roberta, CNN, RNN, LSTM, Clustering (KMeans, DBSCAN, Hierarchical), ARIMA, SARIMAX. | 
 
 
 
