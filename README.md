@@ -1,6 +1,9 @@
 ![Data Professional](https://github.com/karthik-44/karthik-44/blob/main/ll_banner.jpg)
 
-# Venkata Raghavendra Karthik Kanna
+# Venkata Raghavendra Karthik Kanna  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-44&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-44" /> </p>  
+
+
 
 Hi there 👋, my name is Karthik. I'm a passionate data professional with a strong foundation in data science, analytics and engineering. I turn complex data into actionable insights that drive informed decision-making and help organizations thrive in the data-driven age.
 
