@@ -10,7 +10,7 @@ Hi there 👋, my name is Karthik.
 I'm a passionate data professional with a strong foundation in data science, analytics and engineering. I turn complex data into actionable insights that drive informed decision-making and help organizations thrive in the data-driven age. I've worked on a diverse range of data projects, from building predictive models to crafting data-driven dashboards and reports. I believe in the power of data to transform businesses and improve lives.
 
 ## Skills:  
-End to End ML/DL deployment on AWS cloud using AutoML and custom algorithms, Predictive Modeling, Deep Learning, Machine Learning, Natural Language Processing, Data Preprocessing, Data Visualization, Hypothesis Testing, Statistical Analysis, Data Mining, Time Series and Geospatial Analysis, Transfer Learning, Relational Database Management Systems.
+Data Mining, Data Preprocessing, Data Analysis, Data Visualization, Hypothesis Testing, Statistical Analysis, Time Series and Geospatial Analysis, Predictive Modeling, Machine Learning, Deep Learning, Natural Language Processing, Transfer Learning, End to End ML/DL deployment on AWS cloud using AutoML and custom algorithms, Relational Database Management Systems.
 
 ## Tools:
 |  |  |
