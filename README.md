@@ -8,6 +8,9 @@
 Hi there 👋, my name is Karthik.  
 I'm a passionate data professional with a strong foundation in data science, analytics and engineering. I turn complex data into actionable insights that drive informed decision-making and help organizations thrive in the data-driven age.
 
+## Skills:  
+End to End ML/DL deployment on AWS cloud using AutoML and custom algorithms, Predictive Modeling, Deep Learning, Machine Learning, Natural Language Processing, Data Preprocessing, Data Visualization, Hypothesis Testing, Statistical Analysis, Data Mining, Time Series and Geospatial Analysis, Transfer Learning, Relational Database Management Systems.
+
 ## Let's Connect:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/karthik-44)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vkanna01/)
