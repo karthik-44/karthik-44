@@ -5,7 +5,8 @@
 
 
 
-Hi there 👋, my name is Karthik. I'm a passionate data professional with a strong foundation in data science, analytics and engineering. I turn complex data into actionable insights that drive informed decision-making and help organizations thrive in the data-driven age.
+Hi there 👋, my name is Karthik.  
+I'm a passionate data professional with a strong foundation in data science, analytics and engineering. I turn complex data into actionable insights that drive informed decision-making and help organizations thrive in the data-driven age.
 
 ## Let's Connect:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/karthik-44)
