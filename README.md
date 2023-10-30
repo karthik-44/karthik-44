@@ -13,6 +13,7 @@ I'm a passionate data professional with a strong foundation in data science, ana
 End to End ML/DL deployment on AWS cloud using AutoML and custom algorithms, Predictive Modeling, Deep Learning, Machine Learning, Natural Language Processing, Data Preprocessing, Data Visualization, Hypothesis Testing, Statistical Analysis, Data Mining, Time Series and Geospatial Analysis, Transfer Learning, Relational Database Management Systems.
 
 ## Tools:
+|---|---|
 |**Programming Languages**| Python, R, SQL. | 
 |**Data Visualization Libraries**| Tableau, Power BI, Matplotlib, Seaborn, Plotly, Folium, ggplot2.|  
 |**Data Science Libraries**| NumPy, Pandas, Sklearn, TensorFlow, SciPy, Dplyr, Caret, Statsmodels, Pyspark, Pytorch, NLTK, Spacy, Dask, Databricks, Jupyter
