@@ -29,6 +29,6 @@ Data Mining, Data Preprocessing, Data Analysis, Data Visualization, Hypothesis T
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kvrkarthik.com/)  
 
 ### GitHub Streak Stats
-![GitHub streak stats](https://streak-stats.demolab.com/?user=karthik-44)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=karthik-44)](https://git.io/streak-stats)  
 
 
