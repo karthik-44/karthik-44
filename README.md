@@ -16,7 +16,7 @@ Data Mining, Data Preprocessing, Data Analysis, Data Visualization, Hypothesis T
 |  |  |
 |---|---|
 |**Programming Languages**| Python, R, SQL. | 
-|**Data Visualization Libraries**| Tableau, Power BI, Matplotlib, Seaborn, Plotly, Folium, ggplot2.|  
+|**Data Visualization Libraries**| Tableau, Power BI, Streamlit, Matplotlib, Seaborn, Plotly, Folium, ggplot2.|  
 |**Data Science Libraries**| NumPy, Pandas, Sklearn, Pytorch, Pyspark, TensorFlow, SciPy, Dplyr, Caret, Statsmodels, NLTK, Spacy, Dask, Databricks, Jupyter notebooks.  |
 |**Data Science Algorithms**| Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines, Recommendation systems, Neural Networks, BERT, Roberta, CNN, RNN, LSTM, Clustering (KMeans, DBSCAN, Hierarchical), ARIMA, SARIMAX. | 
 
